@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "andre_AFK", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "Virtual69.aternos.me", 
-    "port": 27033,   
+    "ip": "SurvivalPica.aternos.me", 
+    "port": 40636,   
     "version": "1.12.1"   
   },
   
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Slobos!",
-        "I Like to Play Minecraft!"
+        "O André é Foda!",
+        "Só estou jogando normalmente Minecraft!",
+        "Eu sou o melhor para manter esse servidor ativo!"
       ]
     },
 
