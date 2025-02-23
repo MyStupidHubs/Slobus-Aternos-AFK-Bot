@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "andre_AFK", 
+    "username": "andre_AFK2", 
     "password": "",
     "type": "mojang"
   },
@@ -30,14 +30,14 @@
     },
 
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 60,
 
       "messages": [
-        "O André é Foda!",
+        "Olá!",
         "Só estou jogando normalmente Minecraft!",
-        "Eu sou o melhor para manter esse servidor ativo!"
+        "Sou eu quem deixa o servidor ativo!"
       ]
     },
 
